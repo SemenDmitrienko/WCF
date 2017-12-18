@@ -26,7 +26,7 @@ namespace CarService
             doc.Save(file);
         }
 
-        public Car GetCar(Car id)
+        public Car GetCar(int id)
         {
             var file = ConfigurationManager.AppSettings["fileCar"];
             var result = new Car();
@@ -36,9 +36,9 @@ namespace CarService
             var element = doc.Descendants("Car").FirstOrDefault(x => x.Attribute("Id").Value == id.ToString());
 
             result.Id = int.Parse(element.Attribute("Id").Value);
-            result.Vendor = element.Attribute("Id").Value;
-            result.Model = element.Attribute("Id").Value;
-            result.Id = int.Parse(element.Attribute("Year").Value);
+            result.Vendor = element.Element("Vendor").Value;
+            result.Model = element.Element("Model").Value;
+            result.Year = int.Parse(element.Element("Year").Value);
 
             return result;
         }

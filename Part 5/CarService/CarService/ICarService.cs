@@ -7,7 +7,6 @@ using System.Text;
 
 namespace CarService
 {
-    // ПРИМЕЧАНИЕ. Команду "Переименовать" в меню "Рефакторинг" можно использовать для одновременного изменения имени интерфейса "ICarService" в коде и файле конфигурации.
     [ServiceContract]
     public interface ICarService
     {
@@ -15,6 +14,6 @@ namespace CarService
         void SetCar(Car c);
 
         [OperationContract]
-        Car GetCar(Car id);
+        Car GetCar(int id);
     }
 }
