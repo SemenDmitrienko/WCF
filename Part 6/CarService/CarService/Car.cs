@@ -1,18 +1,19 @@
-﻿using System.Collections.Generic;
-using System.Runtime.Serialization;
+﻿using System.Runtime.Serialization;
 
 namespace CarService
 {
+    [KnownType(typeof(TruckCar))]
+    [KnownType(typeof(PassengerCar))]
     [DataContract]
     public class Car
     {
-        [DataMember]
+        [DataMember(Order = 2)]
         public int Id { get; set; }
-        [DataMember]
+        [DataMember(Order = 3)]
         public string Vendor { get; set; }
-        [DataMember]
+        [DataMember(Order = 4)]
         public string Model { get; set; }
-        [DataMember]
+        [DataMember(Order = 1)]
         public int Year { get; set; }
     }
 }
