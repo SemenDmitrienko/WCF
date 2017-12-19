@@ -9,3 +9,4 @@ C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarService\bin\Debug\CarServic
 C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
 C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarService\obj\Debug\CarService.dll
 C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarService\obj\Debug\CarService.pdb
+C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarService\obj\Debug\CarService.csprojResolveAssemblyReference.cache
