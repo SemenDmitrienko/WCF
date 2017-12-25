@@ -1,0 +1,27 @@
+C:\Users\Semen\source\repos\CarService\CarService\bin\Debug\CarService.dll
+C:\Users\Semen\source\repos\CarService\CarService\bin\Debug\CarService.pdb
+C:\Users\Semen\source\repos\CarService\CarService\obj\Debug\CarService.csprojResolveAssemblyReference.cache
+C:\Users\Semen\source\repos\CarService\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
+C:\Users\Semen\source\repos\CarService\CarService\obj\Debug\CarService.dll
+C:\Users\Semen\source\repos\CarService\CarService\obj\Debug\CarService.pdb
+C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarService\bin\Debug\CarService.dll
+C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarService\bin\Debug\CarService.pdb
+C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarService\obj\Debug\CarService.dll
+C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarService\obj\Debug\CarService.pdb
+C:\Users\Dmitrienko\Desktop\WCF\Part 6\CarService\CarService\bin\Debug\CarService.dll
+C:\Users\Dmitrienko\Desktop\WCF\Part 6\CarService\CarService\bin\Debug\CarService.pdb
+C:\Users\Dmitrienko\Desktop\WCF\Part 6\CarService\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrienko\Desktop\WCF\Part 6\CarService\CarService\obj\Debug\CarService.dll
+C:\Users\Dmitrienko\Desktop\WCF\Part 6\CarService\CarService\obj\Debug\CarService.pdb
+C:\Users\Dmitrienko\Desktop\WCF\Part 10\CarService\CarService\bin\Debug\CarService.dll
+C:\Users\Dmitrienko\Desktop\WCF\Part 10\CarService\CarService\bin\Debug\CarService.pdb
+C:\Users\Dmitrienko\Desktop\WCF\Part 10\CarService\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrienko\Desktop\WCF\Part 10\CarService\CarService\obj\Debug\CarService.dll
+C:\Users\Dmitrienko\Desktop\WCF\Part 10\CarService\CarService\obj\Debug\CarService.pdb
+C:\Users\Dmitrienko\Desktop\WCF\Part 11\CarService\CarService\bin\Debug\CarService.dll
+C:\Users\Dmitrienko\Desktop\WCF\Part 11\CarService\CarService\bin\Debug\CarService.pdb
+C:\Users\Dmitrienko\Desktop\WCF\Part 11\CarService\CarService\obj\Debug\CarService.csprojResolveAssemblyReference.cache
+C:\Users\Dmitrienko\Desktop\WCF\Part 11\CarService\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrienko\Desktop\WCF\Part 11\CarService\CarService\obj\Debug\CarService.dll
+C:\Users\Dmitrienko\Desktop\WCF\Part 11\CarService\CarService\obj\Debug\CarService.pdb

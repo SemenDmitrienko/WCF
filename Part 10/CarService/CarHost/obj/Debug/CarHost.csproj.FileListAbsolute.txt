@@ -1,0 +1,36 @@
+C:\Users\Semen\source\repos\CarService\CarHost\bin\Debug\CarHost.exe.config
+C:\Users\Semen\source\repos\CarService\CarHost\bin\Debug\CarHost.exe
+C:\Users\Semen\source\repos\CarService\CarHost\bin\Debug\CarHost.pdb
+C:\Users\Semen\source\repos\CarService\CarHost\bin\Debug\CarService.dll
+C:\Users\Semen\source\repos\CarService\CarHost\bin\Debug\CarService.pdb
+C:\Users\Semen\source\repos\CarService\CarHost\obj\Debug\CarHost.csprojResolveAssemblyReference.cache
+C:\Users\Semen\source\repos\CarService\CarHost\obj\Debug\CarHost.csproj.CoreCompileInputs.cache
+C:\Users\Semen\source\repos\CarService\CarHost\obj\Debug\CarHost.exe
+C:\Users\Semen\source\repos\CarService\CarHost\obj\Debug\CarHost.pdb
+C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarHost\bin\Debug\CarHost.exe.config
+C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarHost\bin\Debug\CarHost.exe
+C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarHost\bin\Debug\CarHost.pdb
+C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarHost\bin\Debug\CarService.dll
+C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarHost\bin\Debug\CarService.pdb
+C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarHost\obj\Debug\CarHost.csprojResolveAssemblyReference.cache
+C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarHost\obj\Debug\CarHost.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarHost\obj\Debug\CarHost.exe
+C:\Users\Dmitrienko\Desktop\WCF\Part 5\CarService\CarHost\obj\Debug\CarHost.pdb
+C:\Users\Dmitrienko\Desktop\WCF\Part 6\CarService\CarHost\bin\Debug\CarHost.exe.config
+C:\Users\Dmitrienko\Desktop\WCF\Part 6\CarService\CarHost\bin\Debug\CarHost.exe
+C:\Users\Dmitrienko\Desktop\WCF\Part 6\CarService\CarHost\bin\Debug\CarHost.pdb
+C:\Users\Dmitrienko\Desktop\WCF\Part 6\CarService\CarHost\bin\Debug\CarService.dll
+C:\Users\Dmitrienko\Desktop\WCF\Part 6\CarService\CarHost\bin\Debug\CarService.pdb
+C:\Users\Dmitrienko\Desktop\WCF\Part 6\CarService\CarHost\obj\Debug\CarHost.csprojResolveAssemblyReference.cache
+C:\Users\Dmitrienko\Desktop\WCF\Part 6\CarService\CarHost\obj\Debug\CarHost.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrienko\Desktop\WCF\Part 6\CarService\CarHost\obj\Debug\CarHost.exe
+C:\Users\Dmitrienko\Desktop\WCF\Part 6\CarService\CarHost\obj\Debug\CarHost.pdb
+C:\Users\Dmitrienko\Desktop\WCF\Part 10\CarService\CarHost\bin\Debug\CarHost.exe.config
+C:\Users\Dmitrienko\Desktop\WCF\Part 10\CarService\CarHost\bin\Debug\CarHost.exe
+C:\Users\Dmitrienko\Desktop\WCF\Part 10\CarService\CarHost\bin\Debug\CarHost.pdb
+C:\Users\Dmitrienko\Desktop\WCF\Part 10\CarService\CarHost\bin\Debug\CarService.dll
+C:\Users\Dmitrienko\Desktop\WCF\Part 10\CarService\CarHost\bin\Debug\CarService.pdb
+C:\Users\Dmitrienko\Desktop\WCF\Part 10\CarService\CarHost\obj\Debug\CarHost.csprojResolveAssemblyReference.cache
+C:\Users\Dmitrienko\Desktop\WCF\Part 10\CarService\CarHost\obj\Debug\CarHost.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrienko\Desktop\WCF\Part 10\CarService\CarHost\obj\Debug\CarHost.exe
+C:\Users\Dmitrienko\Desktop\WCF\Part 10\CarService\CarHost\obj\Debug\CarHost.pdb
